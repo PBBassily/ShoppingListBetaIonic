@@ -1,0 +1,7 @@
+{
+  "name": "ShoppingMania",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
